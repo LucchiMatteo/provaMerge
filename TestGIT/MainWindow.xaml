@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <TextBox x:Name="txtInput" HorizontalAlignment="Left" Height="56" Margin="76,42,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="385"/>
+        <Label x:Name="lblOutput" Content="Label" HorizontalAlignment="Left" Height="41" Margin="218,164,0,0" VerticalAlignment="Top" Width="335"/>
 
     </Grid>
 </Window>
