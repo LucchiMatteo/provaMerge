@@ -23,7 +23,9 @@ namespace TestGIT
         public MainWindow()
         {
             InitializeComponent();
+
             MessageBox.Show("Prova");
+
         }
     }
 }
